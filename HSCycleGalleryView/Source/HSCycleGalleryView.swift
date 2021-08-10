@@ -126,7 +126,7 @@ extension HSCycleGalleryView {
         if self.superview == nil || self.window == nil {
             return
         }
-        self.scrollToNextIndex()
+        //self.scrollToNextIndex()
     }
     
     private func scrollToNextIndex() {
